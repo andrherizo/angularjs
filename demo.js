@@ -32,7 +32,7 @@ app.filter('propsFilter', function() {
       });
     } else {
       // Let the output be the input untouched
-      out = items;
+      out = items;/*aaa*/
     }
 
     return out;
